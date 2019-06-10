@@ -1,5 +1,5 @@
 # DisHekimiRandevu-DentistAppointment
-Diş Hekimi Randevu Sistemi / Dentist Appointment Syste
+Diş Hekimi Randevu Sistemi / Dentist Appointment System
 
 Diş hastanesi için geliştirilmiş bir randevu sistemidir. Hasta işlemleri, doktor işlemleri, randevu işlemleri yapılabilmektedir. Asp.Net ve Mssql Kullanılmıştır.
 
